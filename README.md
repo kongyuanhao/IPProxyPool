@@ -370,3 +370,7 @@ CHECK_PROXY={'function':'baidu_check'}
 <br/>
 1.修复bug ,将数据库进行压缩
 <br/>
+-----------------------------2018-04-05---------------------
+<br/>
+first change
+<br/>
